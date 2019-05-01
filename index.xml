@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>千葉の東京のあたり</title>
+    <link>https://tokyomax.github.io/</link>
+    <description>Recent content on 千葉の東京のあたり</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 30 Apr 2019 23:35:30 +0900</lastBuildDate>
+    
+	<atom:link href="https://tokyomax.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20190430 01</title>
+      <link>https://tokyomax.github.io/posts/20190430-01/</link>
+      <pubDate>Tue, 30 Apr 2019 23:35:30 +0900</pubDate>
+      
+      <guid>https://tokyomax.github.io/posts/20190430-01/</guid>
+      <description>平成も残り30分を切ったころにHugoでサイトを作ってみるテスト。</description>
+    </item>
+    
+  </channel>
+</rss>
